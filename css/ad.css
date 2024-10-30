@@ -1,0 +1,29 @@
+.tagline {
+    width: 336px;
+    height: 280px; 
+    background: url(../images/Screenshot\ 2024-10-30\ 154559.png) center no-repeat;
+    background-size: contain;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    
+}
+
+.header1{
+    position: absolute;
+    text-align: center;
+    left: 115px;
+    top: 240px;
+    font-size: 16px;
+    color: aliceblue;
+
+}
+.header{
+    position: absolute;
+    text-align: center;
+    left: 62px;
+    top: 260px;
+    font-size: 16px;
+
+}
